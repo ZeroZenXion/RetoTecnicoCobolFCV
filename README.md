@@ -29,4 +29,8 @@ Esto lo hacemos abriendo una terminal dentro de la carpeta
 
 Para mas consultas y una documentacion mas detallada, leer el README del Proyecto.
 
+
+
+## ESTE PROGRAMA O PROYECTO SE HIZO PARA PRESENTAR COMO RETO TECNICO A CODEABLEA PARA LA BECA INTERBANK - ZEROZENXION
+
 Este proyecto esta bajo derechos de autor, cualquier uso esta prohibido  ---------ZEROZENDEV
