@@ -17,7 +17,7 @@ El propósito es demostrar buenas prácticas en el diseño de aplicaciones CLI, 
 ### Instalación y Ejecución
 1. **Clonar o Descargar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/retotecnico-cobol.git
+   git clone https://github.com/ZeroZenXion/RetoTecnicoCobolFCV.git
 
 
 
@@ -82,7 +82,7 @@ ESTE PROYECTO ESTA SUJETO A DERECHOS DE AUTOR, CUALQUIER USO SIN AUTORIZACION ES
 
 ## AUTOR
 
-ZeroZenDev / Fabrizio Alessandro Capurro Villanueva
+ZeroZenXion / Fabrizio Alessandro Capurro Villanueva
 
 
 ## LICENCIA
