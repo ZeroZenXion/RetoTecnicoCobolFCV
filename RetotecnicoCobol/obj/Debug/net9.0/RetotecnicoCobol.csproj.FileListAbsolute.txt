@@ -1,0 +1,14 @@
+C:\Users\fabri\RetotecnicoCobol\bin\Debug\net9.0\RetotecnicoCobol.exe
+C:\Users\fabri\RetotecnicoCobol\bin\Debug\net9.0\RetotecnicoCobol.deps.json
+C:\Users\fabri\RetotecnicoCobol\bin\Debug\net9.0\RetotecnicoCobol.runtimeconfig.json
+C:\Users\fabri\RetotecnicoCobol\bin\Debug\net9.0\RetotecnicoCobol.dll
+C:\Users\fabri\RetotecnicoCobol\bin\Debug\net9.0\RetotecnicoCobol.pdb
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.AssemblyInfoInputs.cache
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.AssemblyInfo.cs
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.csproj.CoreCompileInputs.cache
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.dll
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\refint\RetotecnicoCobol.dll
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.pdb
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\RetotecnicoCobol.genruntimeconfig.cache
+C:\Users\fabri\RetotecnicoCobol\obj\Debug\net9.0\ref\RetotecnicoCobol.dll
